@@ -16,7 +16,7 @@ It integrates speech recognition and text-to-speech to perform real-time voice i
 - Pillow (for image handling)
 - ---
 ## GUI Preview  
-![JARVIS Interface](Jarvis Interface.png)
+![JARVIS Interface](Jarvis%20Interface.png)
 ---
 ## How to Run
 1. Clone this repository
